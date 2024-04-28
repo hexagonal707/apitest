@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "release_year": 2021,
+    "display_size_inches": 6.1,
+    "storage_gb": 128,
+    "price_usd": 799
+  },
+  {
+    "id": 2,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "release_year": 2021,
+    "display_size_inches": 6.2,
+    "storage_gb": 128,
+    "price_usd": 799
+  },
+  {
+    "id": 3,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "release_year": 2021,
+    "display_size_inches": 6.4,
+    "storage_gb": 128,
+    "price_usd": 699
+  },
+  {
+    "id": 4,
+    "brand": "OnePlus",
+    "model": "OnePlus 9 Pro",
+    "release_year": 2021,
+    "display_size_inches": 6.7,
+    "storage_gb": 256,
+    "price_usd": 1069
+  },
+  {
+    "id": 5,
+    "brand": "Xiaomi",
+    "model": "Mi 11 Ultra",
+    "release_year": 2021,
+    "display_size_inches": 6.81,
+    "storage_gb": 512,
+    "price_usd": 1199
+  },
+  {
+    "id": 6,
+    "brand": "Huawei",
+    "model": "Huawei P50 Pro",
+    "release_year": 2021,
+    "display_size_inches": 6.6,
+    "storage_gb": 256,
+    "price_usd": 1399
+  },
+  {
+    "id": 7,
+    "brand": "Sony",
+    "model": "Xperia 1 III",
+    "release_year": 2021,
+    "display_size_inches": 6.5,
+    "storage_gb": 256,
+    "price_usd": 1299
+  },
+  {
+    "id": 8,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "release_year": 2021,
+    "display_size_inches": 6.55,
+    "storage_gb": 128,
+    "price_usd": 729
+  }
+]
