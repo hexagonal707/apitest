@@ -6,7 +6,8 @@
     "release_year": 2021,
     "display_size_inches": 6.1,
     "storage_gb": 128,
-    "price_usd": 799
+    "price_usd": 799,
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/iOS-light.webp"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "release_year": 2021,
     "display_size_inches": 6.2,
     "storage_gb": 128,
-    "price_usd": 799
+    "price_usd": 799,
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "release_year": 2021,
     "display_size_inches": 6.4,
     "storage_gb": 128,
-    "price_usd": 699
+    "price_usd": 699,
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "release_year": 2021,
     "display_size_inches": 6.7,
     "storage_gb": 256,
-    "price_usd": 1069
+    "price_usd": 1069,
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "release_year": 2021,
     "display_size_inches": 6.81,
     "storage_gb": 512,
-    "price_usd": 1199
+    "price_usd": 1199,
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "release_year": 2021,
     "display_size_inches": 6.6,
     "storage_gb": 256,
-    "price_usd": 1399
+    "price_usd": 1399,
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@
     "release_year": 2021,
     "display_size_inches": 6.5,
     "storage_gb": 256,
-    "price_usd": 1299
+    "price_usd": 1299,
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
   {
     "id": 8,
@@ -69,6 +76,7 @@
     "release_year": 2021,
     "display_size_inches": 6.55,
     "storage_gb": 128,
-    "price_usd": 729
+    "price_usd": 729,
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   }
 ]
