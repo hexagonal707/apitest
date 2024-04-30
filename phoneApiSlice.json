@@ -8,6 +8,7 @@
     "storage_gb": 128,
     "ram_gb": 6,
     "price_usd": 799,
+    "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/iOS-light.webp"
   },
   {
@@ -19,6 +20,7 @@
     "storage_gb": 128,
     "ram_gb": 8,
     "price_usd": 799,
+    "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
   {
@@ -30,6 +32,7 @@
     "storage_gb": 128,
     "ram_gb": 8,
     "price_usd": 699,
+    "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
   {
@@ -41,6 +44,7 @@
     "storage_gb": 256,
     "ram_gb": 12,
     "price_usd": 1069,
+    "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
   {
@@ -52,6 +56,7 @@
     "storage_gb": 512,
     "ram_gb": 12,
     "price_usd": 1199,
+    "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
   {
@@ -63,6 +68,7 @@
     "storage_gb": 256,
     "ram_gb": 12,
     "price_usd": 1399,
+    "star_rating": "⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
   {
@@ -74,6 +80,7 @@
     "storage_gb": 256,
     "ram_gb": 12,
     "price_usd": 1299,
+    "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
   {
@@ -85,6 +92,7 @@
     "storage_gb": 128,
     "ram_gb": 8,
     "price_usd": 729,
+    "star_rating": "⭐️⭐️⭐️⭐",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   }
 ]
