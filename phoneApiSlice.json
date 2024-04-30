@@ -6,6 +6,7 @@
     "release_year": 2021,
     "display_size_inches": 6.1,
     "storage_gb": 128,
+    "ram_gb": 6,
     "price_usd": 799,
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/iOS-light.webp"
   },
@@ -16,6 +17,7 @@
     "release_year": 2021,
     "display_size_inches": 6.2,
     "storage_gb": 128,
+    "ram_gb": 8,
     "price_usd": 799,
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
@@ -26,6 +28,7 @@
     "release_year": 2021,
     "display_size_inches": 6.4,
     "storage_gb": 128,
+    "ram_gb": 8,
     "price_usd": 699,
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
@@ -36,6 +39,7 @@
     "release_year": 2021,
     "display_size_inches": 6.7,
     "storage_gb": 256,
+    "ram_gb": 12,
     "price_usd": 1069,
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
@@ -46,6 +50,7 @@
     "release_year": 2021,
     "display_size_inches": 6.81,
     "storage_gb": 512,
+    "ram_gb": 12,
     "price_usd": 1199,
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
@@ -56,6 +61,7 @@
     "release_year": 2021,
     "display_size_inches": 6.6,
     "storage_gb": 256,
+    "ram_gb": 12,
     "price_usd": 1399,
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
@@ -66,6 +72,7 @@
     "release_year": 2021,
     "display_size_inches": 6.5,
     "storage_gb": 256,
+    "ram_gb": 12,
     "price_usd": 1299,
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   },
@@ -76,6 +83,7 @@
     "release_year": 2021,
     "display_size_inches": 6.55,
     "storage_gb": 128,
+    "ram_gb": 8,
     "price_usd": 729,
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
   }
