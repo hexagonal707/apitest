@@ -7,7 +7,7 @@
     "display_size_inches": 6.1,
     "storage_gb": 128,
     "ram_gb": 6,
-    "price_usd": 799,
+    "price_usd": 799.00,
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/iOS-dark.webp"
   },
@@ -19,7 +19,7 @@
     "display_size_inches": 6.2,
     "storage_gb": 128,
     "ram_gb": 8,
-    "price_usd": 799,
+    "price_usd": 799.00,
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
@@ -31,7 +31,7 @@
     "display_size_inches": 6.4,
     "storage_gb": 128,
     "ram_gb": 8,
-    "price_usd": 699,
+    "price_usd": 699.00,
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
@@ -43,7 +43,7 @@
     "display_size_inches": 6.7,
     "storage_gb": 256,
     "ram_gb": 12,
-    "price_usd": 1069,
+    "price_usd": 1069.00,
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
@@ -55,7 +55,7 @@
     "display_size_inches": 6.81,
     "storage_gb": 512,
     "ram_gb": 12,
-    "price_usd": 1199,
+    "price_usd": 1199.00,
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
@@ -67,7 +67,7 @@
     "display_size_inches": 6.6,
     "storage_gb": 256,
     "ram_gb": 12,
-    "price_usd": 1399,
+    "price_usd": 1399.00,
     "star_rating": "⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
@@ -79,7 +79,7 @@
     "display_size_inches": 6.5,
     "storage_gb": 256,
     "ram_gb": 12,
-    "price_usd": 1299,
+    "price_usd": 1299.00,
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
@@ -91,7 +91,7 @@
     "display_size_inches": 6.55,
     "storage_gb": 128,
     "ram_gb": 8,
-    "price_usd": 729,
+    "price_usd": 729.00,
     "star_rating": "⭐️⭐️⭐️⭐",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   }
