@@ -9,7 +9,7 @@
     "ram_gb": 6,
     "price_usd": 799,
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
-    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/iOS-light.webp"
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/iOS-dark.webp"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "ram_gb": 8,
     "price_usd": 799,
     "star_rating": "⭐️⭐️⭐️⭐️",
-    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "ram_gb": 8,
     "price_usd": 699,
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
-    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "ram_gb": 12,
     "price_usd": 1069,
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
-    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "ram_gb": 12,
     "price_usd": 1199,
     "star_rating": "⭐️⭐️⭐️⭐️",
-    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "ram_gb": 12,
     "price_usd": 1399,
     "star_rating": "⭐️⭐️⭐️",
-    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "ram_gb": 12,
     "price_usd": 1299,
     "star_rating": "⭐️⭐️⭐️⭐️",
-    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
   {
     "id": 8,
@@ -93,6 +93,6 @@
     "ram_gb": 8,
     "price_usd": 729,
     "star_rating": "⭐️⭐️⭐️⭐",
-    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-light.webp"
+    "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   }
 ]
