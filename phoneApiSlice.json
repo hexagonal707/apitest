@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "brand": "Apple",
     "model": "iPhone 13",
     "release_year": 2021,
@@ -12,7 +12,7 @@
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/iOS-dark.webp"
   },
   {
-    "id": 2,
+    "id": 1,
     "brand": "Samsung",
     "model": "Galaxy S21",
     "release_year": 2021,
@@ -24,7 +24,7 @@
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
   {
-    "id": 3,
+    "id": 2,
     "brand": "Google",
     "model": "Pixel 6",
     "release_year": 2021,
@@ -36,7 +36,7 @@
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
   {
-    "id": 4,
+    "id": 3,
     "brand": "OnePlus",
     "model": "9 Pro",
     "release_year": 2021,
@@ -48,7 +48,7 @@
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
   {
-    "id": 5,
+    "id": 4,
     "brand": "Xiaomi",
     "model": "Mi 11 Ultra",
     "release_year": 2021,
@@ -60,7 +60,7 @@
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
   {
-    "id": 6,
+    "id": 5,
     "brand": "Huawei",
     "model": "P50 Pro",
     "release_year": 2021,
@@ -72,7 +72,7 @@
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
   {
-    "id": 7,
+    "id": 6,
     "brand": "Sony",
     "model": "Xperia 1 III",
     "release_year": 2021,
@@ -84,7 +84,7 @@
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp"
   },
   {
-    "id": 8,
+    "id": 7,
     "brand": "OnePlus",
     "model": "9",
     "release_year": 2021,
