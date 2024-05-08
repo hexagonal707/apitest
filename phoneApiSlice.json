@@ -7,7 +7,10 @@
     "display_size_inches": 6.1,
     "storage_gb": 128,
     "ram_gb": 6,
-    "price_usd": 799.00,
+    "price": {
+        "usd": 799.00,
+        "inr": 59999
+      },
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/iOS-dark.webp",
     "in_cart": false,
@@ -22,7 +25,10 @@
     "display_size_inches": 6.2,
     "storage_gb": 128,
     "ram_gb": 8,
-    "price_usd": 799.00,
+    "price": {
+        "usd": 800.00,
+        "inr": 65000
+      },
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
@@ -37,7 +43,10 @@
     "display_size_inches": 6.4,
     "storage_gb": 128,
     "ram_gb": 8,
-    "price_usd": 699.00,
+    "price": {
+        "usd": 699.00,
+        "inr": 52000
+      },
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
@@ -52,7 +61,10 @@
     "display_size_inches": 6.7,
     "storage_gb": 256,
     "ram_gb": 12,
-    "price_usd": 1069.00,
+    "price": {
+        "usd": 1069.00,
+        "inr": 80000
+      },
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
@@ -67,7 +79,10 @@
     "display_size_inches": 6.81,
     "storage_gb": 512,
     "ram_gb": 12,
-    "price_usd": 1199.00,
+    "price": {
+        "usd": 1199.00,
+        "inr": 89900
+      },
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
@@ -82,7 +97,10 @@
     "display_size_inches": 6.6,
     "storage_gb": 256,
     "ram_gb": 12,
-    "price_usd": 1399.00,
+    "price": {
+        "usd": 1399.00,
+        "inr": 104999
+      },
     "star_rating": "⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
@@ -97,7 +115,10 @@
     "display_size_inches": 6.5,
     "storage_gb": 256,
     "ram_gb": 12,
-    "price_usd": 1299.00,
+    "price": {
+        "usd": 1299.00,
+        "inr": 97999
+      },
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
@@ -112,7 +133,10 @@
     "display_size_inches": 6.55,
     "storage_gb": 128,
     "ram_gb": 8,
-    "price_usd": 729.00,
+    "price": {
+        "usd": 729.00,
+        "inr": 54999
+      },
     "star_rating": "⭐️⭐️⭐️⭐",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
