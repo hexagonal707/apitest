@@ -9,7 +9,7 @@
     "ram_gb": 6,
     "price": {
         "usd": 799.00,
-        "inr": 59999
+        "inr": 59999.00,
       },
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/iOS-dark.webp",
@@ -27,7 +27,7 @@
     "ram_gb": 8,
     "price": {
         "usd": 800.00,
-        "inr": 65000
+        "inr": 65000.00,
       },
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
@@ -45,7 +45,7 @@
     "ram_gb": 8,
     "price": {
         "usd": 699.00,
-        "inr": 52000
+        "inr": 52000.00,
       },
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
@@ -63,7 +63,7 @@
     "ram_gb": 12,
     "price": {
         "usd": 1069.00,
-        "inr": 80000
+        "inr": 80000.00,
       },
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
@@ -81,7 +81,7 @@
     "ram_gb": 12,
     "price": {
         "usd": 1199.00,
-        "inr": 89900
+        "inr": 89900.00,
       },
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
@@ -99,7 +99,7 @@
     "ram_gb": 12,
     "price": {
         "usd": 1399.00,
-        "inr": 104999
+        "inr": 104999.00,
       },
     "star_rating": "⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
@@ -117,7 +117,7 @@
     "ram_gb": 12,
     "price": {
         "usd": 1299.00,
-        "inr": 97999
+        "inr": 97999.00,
       },
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
@@ -135,7 +135,7 @@
     "ram_gb": 8,
     "price": {
         "usd": 729.00,
-        "inr": 54999
+        "inr": 54999.00,
       },
     "star_rating": "⭐️⭐️⭐️⭐",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
