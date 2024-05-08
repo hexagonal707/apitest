@@ -10,7 +10,9 @@
     "price_usd": 799.00,
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/iOS-dark.webp",
-    "in_cart": false
+    "in_cart": false,
+    "quantity": 1,
+    
   },
   {
     "id": 1,
@@ -23,7 +25,8 @@
     "price_usd": 799.00,
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
-    "in_cart": false
+    "in_cart": false,
+    "quantity": 1,
   },
   {
     "id": 2,
@@ -36,7 +39,8 @@
     "price_usd": 699.00,
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
-    "in_cart": false
+    "in_cart": false,
+    "quantity": 1,
   },
   {
     "id": 3,
@@ -49,7 +53,8 @@
     "price_usd": 1069.00,
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
-    "in_cart": false
+    "in_cart": false,
+    "quantity": 1,
   },
   {
     "id": 4,
@@ -62,7 +67,8 @@
     "price_usd": 1199.00,
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
-    "in_cart": false
+    "in_cart": false,
+    "quantity": 1,
   },
   {
     "id": 5,
@@ -75,7 +81,8 @@
     "price_usd": 1399.00,
     "star_rating": "⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
-    "in_cart": false
+    "in_cart": false,
+    "quantity": 1,
   },
   {
     "id": 6,
@@ -88,7 +95,8 @@
     "price_usd": 1299.00,
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
-    "in_cart": false
+    "in_cart": false,
+    "quantity": 1,
   },
   {
     "id": 7,
@@ -101,6 +109,7 @@
     "price_usd": 729.00,
     "star_rating": "⭐️⭐️⭐️⭐",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
-    "in_cart": false
+    "in_cart": false,
+    "quantity": 1,
   }
 ]
