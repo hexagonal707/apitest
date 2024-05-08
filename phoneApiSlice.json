@@ -11,7 +11,8 @@
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/iOS-dark.webp",
     "in_cart": false,
-    "quantity": 0
+    "quantity": 0,
+    "description": "The iPhone 13, the latest offering from Apple, combines sleek design with powerful performance. With its 6.1-inch Super Retina XDR display, images and videos come to life with stunning clarity and color accuracy. Equipped with 128GB of storage and 6GB of RAM, the iPhone 13 ensures smooth multitasking and ample space for all your apps, photos, and videos. Its A15 Bionic chip delivers lightning-fast performance, whether you're gaming, streaming, or editing photos and videos. The dual-camera system captures incredible detail and depth, allowing you to take stunning photos and 4K videos. With its long-lasting battery life and advanced iOS 15 features, including enhanced privacy controls and widgets, the iPhone 13 is designed to keep up with your busy lifestyle."
   },
   {
     "id": 1,
@@ -25,7 +26,8 @@
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 0
+    "quantity": 0,
+    "description": "The Samsung Galaxy S21 is a flagship smartphone that combines cutting-edge technology with sleek design. Its 6.2-inch Dynamic AMOLED 2X display offers vibrant colors and crisp details, perfect for streaming movies or playing games. With 128GB of storage and 8GB of RAM, the Galaxy S21 provides ample space for all your apps, photos, and videos, while ensuring smooth multitasking. Powered by the Qualcomm Snapdragon 888 chipset, this phone delivers powerful performance for all your needs. The triple-camera system lets you capture stunning photos and 8K videos, while features like Single Take AI and Space Zoom enhance your photography experience. With its all-day battery life and 5G connectivity, the Galaxy S21 keeps you connected and productive wherever you go."
   },
   {
     "id": 2,
@@ -39,7 +41,8 @@
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 0
+    "quantity": 0,
+    "description": "The Google Pixel 6 is a flagship smartphone that redefines the Android experience. With its 6.4-inch Full HD+ OLED display, the Pixel 6 offers stunning visuals and vibrant colors, making it perfect for streaming your favorite movies or browsing the web. Equipped with 128GB of storage and 8GB of RAM, this phone provides ample space for all your apps, photos, and videos, while ensuring smooth multitasking. Powered by Google's custom-built Tensor chip, the Pixel 6 delivers powerful performance and AI-driven features that enhance your everyday tasks. The dual-camera system with advanced computational photography capabilities lets you capture breathtaking photos and 4K videos, while features like Night Sight and HDR+ enhance your low-light photography. With its sleek design, all-day battery life, and latest Android 12 features, the Pixel 6 is designed to keep up with your busy lifestyle."
   },
   {
     "id": 3,
@@ -53,7 +56,8 @@
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 0
+    "quantity": 0,
+    "description": "The OnePlus 9 Pro is a premium flagship smartphone that offers top-of-the-line features and performance. Its 6.7-inch Fluid AMOLED display with a 120Hz refresh rate provides smooth scrolling and stunning visuals, perfect for gaming or watching videos. With 256GB of storage and 12GB of RAM, the OnePlus 9 Pro offers ample space for all your apps, photos, and videos, while ensuring seamless multitasking. Powered by the Qualcomm Snapdragon 888 chipset, this phone delivers lightning-fast performance and 5G connectivity for lag-free gaming and streaming. The quad-camera system co-developed with Hasselblad lets you capture professional-quality photos and 8K videos, while features like Nightscape and UltraShot HDR enhance your photography experience. With its sleek design, all-day battery life, and OxygenOS 11, the OnePlus 9 Pro is designed to meet the demands of today's mobile users."
   },
   {
     "id": 4,
@@ -67,7 +71,8 @@
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 0
+    "quantity": 0,
+    "description": "The Xiaomi Mi 11 Ultra is a flagship smartphone that pushes the boundaries of innovation. With its massive 6.81-inch AMOLED display, the Mi 11 Ultra offers stunning visuals and immersive viewing experiences, perfect for gaming or watching movies. Equipped with a whopping 512GB of storage and 12GB of RAM, this phone provides ample space for all your apps, photos, and videos, while ensuring smooth multitasking. Powered by the Qualcomm Snapdragon 888 chipset, the Mi 11 Ultra delivers lightning-fast performance and 5G connectivity for lag-free gaming and streaming. The triple-camera system with a 50MP main sensor lets you capture professional-quality photos and 8K videos, while features like Night Mode and AI scene detection enhance your photography experience. With its sleek design, long-lasting battery life, and MIUI 12, the Mi 11 Ultra is designed to elevate your smartphone experience."
   },
   {
     "id": 5,
@@ -81,7 +86,8 @@
     "star_rating": "⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 0
+    "quantity": 0,
+    "description": "The Huawei P50 Pro is a flagship smartphone that combines cutting-edge technology with elegant design. Its 6.6-inch OLED display offers vibrant colors and crisp details, perfect for watching movies or browsing the web. With 256GB of storage and 12GB of RAM, the P50 Pro provides ample space for all your apps, photos, and videos, while ensuring smooth multitasking. Powered by the Kirin 9000 chipset, this phone delivers powerful performance and 5G connectivity for lag-free gaming and streaming. The quad-camera system with Leica optics lets you capture stunning photos and 4K videos, while features like Night Mode and AI HDR enhance your photography experience. With its sleek design, long-lasting battery life, and HarmonyOS 2.0, the Huawei P50 Pro offers a premium smartphone experience."
   },
   {
     "id": 6,
@@ -95,7 +101,8 @@
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 0
+    "quantity": 0,
+    "description": "The Sony Xperia 1 III is a flagship smartphone that offers professional-grade features and performance. Its 6.5-inch 4K HDR OLED display with a 120Hz refresh rate provides stunning visuals and smooth scrolling, perfect for gaming or watching movies. With 256GB of storage and 12GB of RAM, the Xperia 1 III provides ample space for all your apps, photos, and videos, while ensuring seamless multitasking. Powered by the Qualcomm Snapdragon 888 chipset, this phone delivers lightning-fast performance and 5G connectivity for lag-free gaming and streaming. The triple-camera system with ZEISS optics lets you capture professional-quality photos and 4K videos, while features like Real-time Eye AF and Photography Pro enhance your photography experience. With its sleek design, long-lasting battery life, and immersive audio experience, the Xperia 1 III is designed to meet the demands of content creators and mobile enthusiasts."
   },
   {
     "id": 7,
@@ -109,6 +116,7 @@
     "star_rating": "⭐️⭐️⭐️⭐",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 0
+    "quantity": 0,
+    "description": "The OnePlus 9 is a flagship smartphone that offers a premium Android experience at an affordable price. Its 6.55-inch Fluid AMOLED display with a 120Hz refresh rate provides smooth scrolling and vibrant colors, perfect for gaming or watching videos. With 128GB of storage and 8GB of RAM, the OnePlus 9 provides ample space for all your apps, photos, and videos, while ensuring seamless multitasking. Powered by the Qualcomm Snapdragon 888 chipset, this phone delivers powerful performance and 5G connectivity for lag-free gaming and streaming. The triple-camera system lets you capture stunning photos and 8K videos, while features like Nightscape and UltraShot HDR enhance your photography experience. With its sleek design, all-day battery life, and OxygenOS 11, the OnePlus 9 offers a flagship smartphone experience without breaking the bank."
   }
 ]
