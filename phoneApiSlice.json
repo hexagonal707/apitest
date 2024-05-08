@@ -11,7 +11,7 @@
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/iOS-dark.webp",
     "in_cart": false,
-    "quantity": 1   
+    "quantity": 0
   },
   {
     "id": 1,
@@ -25,7 +25,7 @@
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id": 2,
@@ -39,7 +39,7 @@
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id": 3,
@@ -53,7 +53,7 @@
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id": 4,
@@ -67,7 +67,7 @@
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id": 5,
@@ -81,7 +81,7 @@
     "star_rating": "⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id": 6,
@@ -95,7 +95,7 @@
     "star_rating": "⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id": 7,
@@ -109,6 +109,6 @@
     "star_rating": "⭐️⭐️⭐️⭐",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/android-dark.webp",
     "in_cart": false,
-    "quantity": 1
+    "quantity": 0
   }
 ]
