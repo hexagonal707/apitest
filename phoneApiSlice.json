@@ -11,8 +11,7 @@
     "star_rating": "⭐️⭐️⭐️⭐️⭐️",
     "img": "https://raw.githubusercontent.com/hexagonal707/apitest/main/images/iOS-dark.webp",
     "in_cart": false,
-    "quantity": 1
-    
+    "quantity": 1   
   },
   {
     "id": 1,
